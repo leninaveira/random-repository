@@ -1,0 +1,36 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "enable-crash-reporter": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.elixir_ls": true
+    },
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Bluloco Light",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[elixir]": {
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.formatOnType": true,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.trimAutoWhitespace": false,
+        "editor.wordBasedSuggestions": false,
+        "files.insertFinalNewline": true,
+        "files.trimTrailingWhitespace": true
+    }
+}

@@ -1,0 +1,23 @@
+image:
+  file: .gitpod/Dockerfile
+
+tasks:
+  - name: FiraCode
+    init: .gitpod/firacode/init.sh
+  - name: Git
+    command: .gitpod/git/command.sh
+  - name: IEx
+    command: iex
+
+vscode:
+  extensions:
+    - uloco.theme-bluloco-light@3.1.1:n3AUspASK0ldGCrmD1JAPQ==
+    - coenraads.bracket-pair-colorizer-2@0.2.0:R8flOpw1fEZe6KyMNNNqBQ==
+    - pkief.material-icon-theme@4.4.0:rUeW9VprKCFBXYTvg+AimA==
+    - eamodio.gitlens@10.2.1:WIWu3zHU4VPT8r/v866LUw==
+    - elixir-lsp.elixir-ls@0.6.2:j/OgOgkgo0QJRBdZXhmoUQ==
+    - formulahendry.code-runner@0.11.1:hLisqB9ugwNp1563+VahaQ==
+
+github:
+  prebuilds:
+    master: true
