@@ -20,4 +20,4 @@ vscode:
 
 github:
   prebuilds:
-    master: true
+    main: true
