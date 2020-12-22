@@ -20,7 +20,7 @@
         "**/.elixir_ls": true
     },
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Bluloco Light",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.iconTheme": "material-icon-theme",
     "[elixir]": {
