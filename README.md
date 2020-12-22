@@ -1,7 +1,7 @@
-# Stupefied Murdock
+# random-repository
 
 ![Elixir v1.11.2](https://img.shields.io/badge/elixir-1.11.2-blueviolet?style=for-the-badge)
-[![Open in Gitpod](https://img.shields.io/badge/gitpod-ready%20to%20code-informational?style=for-the-badge)](https://gitpod.io/#https://github.com/crissilvaeng/stupefied-murdock)
+[![Open in Gitpod](https://img.shields.io/badge/gitpod-ready%20to%20code-informational?style=for-the-badge)](https://gitpod.io/#https://github.com/leninaveira/random-repository)
 
 ## Proposal
 
