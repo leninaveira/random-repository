@@ -12,3 +12,18 @@ false
 iex(3)> 1===!1.0
 false
 iex(4)> 1!===1.0
+
+line_no  = 50
+if (line_no == 50) do
+  IO.puts "new-page\f"
+  line_no = 0
+end
+
+IO.puts line_no
+sum = fn (a,b) ->  a + b end
+a = sum.(1,2)
+IO.inspect a
+
+mult = fn (a,b,c,...) -> a*b*c*... end
+b = mult.(2,3,4,5,6)
+IO.inspect b
